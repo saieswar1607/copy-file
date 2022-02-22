@@ -44,8 +44,12 @@ with open('text1','r') as file1:
 #### Program:
 <img width="768" alt="Screenshot 2022-02-22 at 2 33 05 PM" src="https://user-images.githubusercontent.com/93427011/155098519-4f4f81ee-1a4c-4110-896c-b441a9a6b24c.png">
 #### File 1:
+
 ![Output](./f1output.png)
+
 #### File 2:
+
 ![Output](./f2output.png)
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
